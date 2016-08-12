@@ -90,7 +90,7 @@ public class Controller {
     private ToggleButton toggBtnSlow;
 
 
-    private TwitchChatBot connect = new TwitchChatBot("PopekBot", "le9drmlrm7gm3lrp307a7odvbrgqaa");
+    private TwitchChatBot connect = new TwitchChatBot("Your Login", "Your AuthKey");
     private Task<Void> task;
     private String chan = "";
     private Raffle raffle;
